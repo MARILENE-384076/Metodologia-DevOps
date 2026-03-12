@@ -1,76 +1,42 @@
 # Pesquisa-Metodologia-DevOps
 Esta pesquisa tem como objetivo desenvolver e ampliar o conhecimento sobre a metodologia de desenvolvimento DevOps.
 
-Guia completo para o trabalho sobre DevOps
-1. Primeiro entenda o que é DevOps
+1. Definição da Metodologia DevOps.
 
-Comece pesquisando a definição da metodologia DevOps.
 
-O que pesquisar
+## O que é DevOps?
 
-Procure responder estas perguntas:
+## Qual o objetivo do DevOps?
 
-O que é DevOps?
+## Por que ele surgiu?
 
-Qual o objetivo do DevOps?
+## O que significa o nome Dev + Ops?
 
-Por que ele surgiu?
-
-O que significa o nome Dev + Ops?
-
-Ideia principal que você precisa encontrar
-
-DevOps é uma cultura/metodologia que integra desenvolvimento (Development) e operações de TI (Operations) para entregar software mais rápido, com mais qualidade e automação.
-
-Melhores fontes
-
-Use estas fontes (são confiáveis):
-
-Amazon Web Services – explicação simples
-https://aws.amazon.com/devops/what-is-devops/
-
-Red Hat – guia técnico
-https://www.redhat.com/pt-br/topics/devops
-
-Atlassian Jira / Atlassian DevOps Guide
-https://www.atlassian.com/devops
-
-Wikipedia (para visão geral)
-
-💡 Dica: use 2 ou 3 fontes no máximo para não perder tempo.
 
 2. Características principais do DevOps
 O que pesquisar
 
-Procure os princípios do DevOps, como:
+ # princípios do DevOps:
 
-Integração contínua
+## Integração contínua
 
-Entrega contínua
+## Entrega contínua
 
-Automação
+## Automação
 
-Monitoramento constante
+## Monitoramento constante
 
-Colaboração entre equipes
+## Colaboração entre equipes
 
-Palavras-chave para pesquisar
 
-Pesquise no Google:
+# O ciclo DevOps geralmente inclui:
 
-princípios do DevOps
-DevOps principles
-ciclo DevOps
-Um conceito importante
-
-O ciclo DevOps geralmente inclui:
-
-1️⃣ Planejar
-2️⃣ Desenvolver
-3️⃣ Integrar
-4️⃣ Testar
-5️⃣ Entregar
-6️⃣ Monitorar
+1️ Planejar
+2️ Desenvolver
+3️ Integrar
+4️ Testar
+5️ Entregar
+6️ Monitorar
 
 Esse ciclo é chamado de DevOps Lifecycle.
 
@@ -90,7 +56,7 @@ Plataformas de streaming
 
 Sistemas que recebem atualizações frequentes
 
-Exemplos de empresas que usam DevOps
+## Exemplos de empresas que usam DevOps
 
 Netflix
 
@@ -100,15 +66,10 @@ Google
 
 Facebook
 
-Pesquise:
 
-empresas que utilizam DevOps
-DevOps case study
 4. Ferramentas associadas ao DevOps
 
 Esse é um dos pontos mais importantes do trabalho.
-
-Ferramentas que você deve citar
 
 Controle de versão
 
@@ -136,10 +97,7 @@ Prometheus
 
 Grafana
 
-Pesquise:
 
-ferramentas DevOps
-DevOps tools list
 5. Vantagens e desvantagens
 Vantagens
 
@@ -163,15 +121,9 @@ Necessita conhecimento técnico elevado
 
 Pode exigir novas ferramentas
 
-Pesquise:
 
-vantagens e desvantagens do DevOps
-pros and cons DevOps
 6. Exemplos reais de aplicação
 
-Aqui você precisa mostrar casos reais.
-
-Exemplo clássico
 
 A Netflix usa DevOps para:
 
@@ -185,10 +137,7 @@ Outro exemplo:
 
 A Amazon usa DevOps para implantar código milhares de vezes por dia.
 
-Pesquise:
 
-DevOps case study companies
-DevOps Netflix example
 7. Comparação com outras metodologias
 
 Compare DevOps com:
@@ -205,36 +154,11 @@ Waterfall	processo linear
 Scrum	desenvolvimento ágil
 DevOps	integração entre desenvolvimento e operações
 
-Pesquise:
-
-DevOps vs Agile
-DevOps vs Scrum
-Estrutura ideal do PDF
-
-Faça o documento com 6 a 8 páginas.
-
-1️⃣ Introdução
-
-Explique o que é DevOps.
-
-2️⃣ Definição da metodologia
-
-História e conceito.
-
-3️⃣ Características principais
-
-Princípios e ciclo DevOps.
-
-4️⃣ Ferramentas
-
-Liste e explique algumas ferramentas.
-
-5️⃣ Aplicações e exemplos
 
 Casos reais.
 
-6️⃣ Vantagens e desvantagens
-7️⃣ Comparação com outras metodologias
-8️⃣ Conclusão
+6️ Vantagens e desvantagens
+7️ Comparação com outras metodologias
+8️ Conclusão
 
 Importância do DevOps atualmente.
