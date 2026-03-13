@@ -108,6 +108,8 @@ O ecossistema DevOps é composto por uma "corrente" de ferramentas que automatiz
 ### 4.1. Controle de Versão e Repositórios
 Essas ferramentas permitem que múltiplos desenvolvedores trabalhem no mesmo código sem conflitos, mantendo um histórico de todas as alterações.
 * **Git**: O sistema de controle de versão distribuído mais utilizado no mundo.
+  <img width="597" height="326" alt="Git" src="https://github.com/user-attachments/assets/bf55b955-b8b0-4642-912c-643c711dcf2f" />
+
 * **GitHub / GitLab**: Plataformas que hospedam os repositórios Git, oferecendo recursos de revisão de código (Pull Requests) e gerenciamento de projetos.
 
 ### 4.2. Integração e Entrega Contínua (CI/CD)
@@ -180,3 +182,6 @@ Uma visão comparativa ajuda a entender por que o DevOps é a escolha de muitas 
 # 8. Conclusão
 
 Atualmente, o DevOps é indispensável para qualquer organização que busca competitividade. Ele não apenas acelera a entrega de software, mas garante que o produto final tenha maior qualidade e segurança. Ao unir cultura, práticas e ferramentas, o DevOps transforma a forma como a tecnologia é entregue, sendo o motor por trás das maiores plataformas digitais do mundo.
+
+# Bibliografia
+https://about.gitlab.com/topics/devops/
