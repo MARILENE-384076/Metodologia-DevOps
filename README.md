@@ -108,9 +108,17 @@ O ecossistema DevOps é composto por uma "corrente" de ferramentas que automatiz
 ### 4.1. Controle de Versão e Repositórios
 Essas ferramentas permitem que múltiplos desenvolvedores trabalhem no mesmo código sem conflitos, mantendo um histórico de todas as alterações.
 * **Git**: O sistema de controle de versão distribuído mais utilizado no mundo.
-  <img width="597" height="326" alt="Git" src="https://github.com/user-attachments/assets/bf55b955-b8b0-4642-912c-643c711dcf2f" />
+
+ <p align="center">
+  <img src="./Imagens/versionamento.png" alt="Exemplo de Versionamento" width="500">
+</p>
 
 * **GitHub / GitLab**: Plataformas que hospedam os repositórios Git, oferecendo recursos de revisão de código (Pull Requests) e gerenciamento de projetos.
+* 
+| Repositório Local (Git) | Repositório Remoto (GitLab) |
+| :---: | :---: |
+| <img src="./Imagens/Git.png" alt="Exemplo Git" width="400"> | <img src="./Imagens/gitlab.png" alt="Exemplo GitLab" width="400"> |
+| *Controle de versão na máquina do desenvolvedor.* | *Plataforma de colaboração e automação na nuvem.* |
 
 ### 4.2. Integração e Entrega Contínua (CI/CD)
 É o coração da automação DevOps. Elas garantem que cada alteração no código seja testada e preparada para publicação automaticamente.
