@@ -157,12 +157,27 @@ A adoção do DevOps traz benefícios estratégicos, mas também impõe desafios
 
 # 6. Exemplos de Aplicabilidade e Casos Reais
 
-Grandes empresas de tecnologia utilizam o DevOps para manter sua liderança no mercado:
+O DevOps é o motor por trás das maiores plataformas digitais do mundo. Abaixo, detalhamos como grandes empresas e projetos específicos utilizam essa metodologia para manter a liderança:
 
-* **Netflix**: Utiliza o DevOps para lançar atualizações rapidamente, testar novas funcionalidades em tempo real e manter alta disponibilidade para milhões de usuários.
-* **Amazon**: Consegue implantar código milhares de vezes por dia através de automação pesada e cultura de responsabilidade compartilhada.
-* **Google e Facebook**: Aplicam a metodologia para gerenciar infraestruturas globais com atualizações invisíveis ao usuário.
-* **Projetos de Monitoramento**: Como o sistema de medição automática de volume, onde o fluxo de dados precisa ser contínuo e estável.
+### 6.1. Netflix: O Caos como Ferramenta de Teste
+A Netflix é pioneira em DevOps e criou o conceito de **Chaos Engineering**. 
+* **Como aplicam**: Eles utilizam uma ferramenta chamada *Chaos Monkey*, que desliga servidores propositalmente em ambiente de produção para testar se o sistema consegue se recuperar sozinho. 
+* **Resultado**: Isso garante que, se um servidor real falhar, o usuário nem perceba, mantendo a alta disponibilidade para milhões de pessoas.
+
+### 6.2. Amazon: Deploys a cada 11 segundos
+A Amazon revolucionou a entrega de software ao migrar de um sistema gigante (monolítico) para milhares de pequenos serviços independentes.
+* **Como aplicam**: Através de uma automação pesada e cultura de "quem constrói, opera", os desenvolvedores são responsáveis pelo ciclo completo. 
+* **Resultado**: A empresa consegue realizar implantações de código milhares de vezes por dia, permitindo que novas funcionalidades cheguem ao site quase instantaneamente.
+
+### 6.3. Google e Facebook: Escala Global e Atualizações Invisíveis
+Estas empresas gerenciam infraestruturas que nunca podem parar, utilizando práticas de **SRE (Site Reliability Engineering)**, que é a aplicação do DevOps focada em confiabilidade.
+* **Como aplicam**: Utilizam ferramentas de orquestração (como o Kubernetes, que nasceu no Google) para gerenciar bilhões de containers. 
+* **Resultado**: As atualizações de interface ou algoritmos são feitas de forma progressiva e invisível para o usuário final.
+
+### 6.4. Projetos de Monitoramento e Automação (Caso Prático)
+O DevOps não serve apenas para gigantes da tecnologia, mas também para projetos técnicos de alta precisão:
+* **Exemplo**: Sistemas de medição automática de volume ou monitoramento hídrico.
+* **Aplicação**: Nestes casos, o DevOps garante que o fluxo de dados dos sensores seja contínuo. Se um sensor parar de enviar informações, o sistema de monitoramento automatizado detecta a falha, gera um alerta imediato e permite uma correção rápida sem perda de dados históricos.
 
 ---
 
