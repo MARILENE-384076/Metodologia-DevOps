@@ -98,7 +98,9 @@ Para realizar todo o potencial do DevOps, as equipes seguem estes pilares essenc
 
 Conforme visualizado na imagem do infinito ($\infty$), o ciclo divide-se entre as fases de construção e as fases de operação:
 
-![Ciclo DevOps DEV e OPS](./image_d8cdb3.jpg)
+<p align="center">
+  <img src="./Imagens/Ciclo%20Lifecycle%20.png" alt="Ciclo de Vida DevOps" width="500">
+</p>
 
 #### Lado DEV (Development)
 1.  **Plan (Planejar):** Definição de requisitos, metas e alinhamento com as necessidades do usuário.
