@@ -105,7 +105,7 @@ O DevOps é a escolha ideal para cenários que exigem escala e evolução consta
 Arquitetura de desenvolvimento das melhores práticas para a execução de desenvolvimento e operações (DevOps)
 
  <p align="center">
-  <img src="./Imagens/Estrutura DevOps.png" alt="Exemplo de Versionamento" width="500">
+  <img src="./Imagens/Estrutura%20DevOps.png" alt="Estrutura DevOps" width="500">
 </p>
 
 O ecossistema DevOps é composto por uma "corrente" de ferramentas que automatizam o ciclo de vida do software. Com base na representação gráfica da atividade, detalhamos as principais categorias:
@@ -133,9 +133,14 @@ Essas ferramentas permitem que múltiplos desenvolvedores trabalhem no mesmo có
 É o coração da automação DevOps. Elas garantem que cada alteração no código seja testada e preparada para publicação automaticamente.
 * **Jenkins**: Uma das ferramentas de automação open-source mais robustas para criar pipelines complexos.
   
- <p align="center">
-  <img src="./Imagens/Jenkins.png" alt="Exemplo de Versionamento" width="500">
-</p>
+ <div align="center">
+
+| Jenkins CI Process | Integração Contínua |
+| :---: | :---: |
+| <img src="./Imagens/Jenkins CI Process.png" alt="Processo Jenkins" width="400"> | <img src="./Imagens/Integração Continua.png" alt="Integração Contínua" width="400"> |
+| *Fluxo de automação utilizando Jenkins.* | *Ciclo lógico da integração contínua (CI).* |
+
+</div>
 
 * **GitLab CI / CircleCI**: Ferramentas modernas focadas em rapidez, que executam testes automatizados assim que o desenvolvedor envia o código para o repositório.
 
