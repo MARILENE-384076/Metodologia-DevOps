@@ -326,3 +326,5 @@ GITLAB. *Introduction to CI/CD.* Disponível em: <https://docs.gitlab.co.jp/ee/c
 RED HAT. *O que é DevOps?* Disponível em: <https://www.redhat.com/pt-br/topics/devops>. Acesso em: 14 mar. 2026.
 
 THINKR. *Transform a folder as Git project synchronized on GitHub or GitLab.* Disponível em: <https://rtask.thinkr.fr/transform-a-folder-as-git-project-synchronized-on-github-or-gitlab/>. Acesso em: 14 mar. 2026.
+
+MICROSOFT. Orquestrar microsserviços e aplicativos de vários contêineres para alta escalabilidade e disponibilidade. Disponível em: https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/architect-microservice-container-applications/scalable-available-multi-container-microservice-applications. Acesso em: 14 mar. 2026.
