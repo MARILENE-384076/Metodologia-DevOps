@@ -197,7 +197,16 @@ Essas ferramentas permitem que múltiplos desenvolvedores trabalhem no mesmo có
 ### 4.3. Virtualização, Containers e Orquestração
 Resolvem o problema do "na minha máquina funciona", garantindo que o software rode da mesma forma em qualquer computador ou servidor.
 * **Docker**: Cria "containers" que empacotam a aplicação com todas as suas dependências (bibliotecas, banco de dados, etc.).
+  
+<p align="center">
+<img src="./Imagens/Docker.png" alt="Docker e Orquestração" width="500">
+</p>
+  
 * **Kubernetes (K8s)**: Atua como o "maestro" dos containers, gerenciando automaticamente a escala e a disponibilidade deles em grandes servidores.
+
+<p align="center">
+<img src="./Imagens/Docker.png" alt="Docker e Orquestração" width="500">
+</p>
 
 ### 4.4. Monitoramento e Observabilidade
 Permitem que a equipe de Operações (Ops) acompanhe o desempenho do sistema em tempo real e identifique falhas antes mesmo que o usuário perceba.
