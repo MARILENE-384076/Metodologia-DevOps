@@ -104,8 +104,8 @@ O DevOps é a escolha ideal para cenários que exigem escala e evolução consta
 # 4. Ferramentas Associadas
 Arquitetura de desenvolvimento das melhores práticas para a execução de desenvolvimento e operações (DevOps)
 
- <p align="center">
-  <img src="./Imagens/Estrutura DevOps.png" alt="Estrutura DevOps" width="500">
+<p align="center">
+  <img src="./Imagens/Estrutura%20%20DevOps.png" alt="Fluxo AWS DevOps" width="700">
 </p>
 
 O ecossistema DevOps é composto por uma "corrente" de ferramentas que automatizam o ciclo de vida do software. Com base na representação gráfica da atividade, detalhamos as principais categorias:
