@@ -205,7 +205,7 @@ Resolvem o problema do "na minha máquina funciona", garantindo que o software r
 * **Kubernetes (K8s)**: Atua como o "maestro" dos containers, gerenciando automaticamente a escala e a disponibilidade deles em grandes servidores.
 
 <p align="center">
-<img src="./Imagens/Docker.png" alt="Docker e Orquestração" width="500">
+<img src="./Imagens/kubernetes%20.png" alt="Kubernetes" width="500">
 </p>
 
 ### 4.4. Monitoramento e Observabilidade
