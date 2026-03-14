@@ -211,17 +211,12 @@ Resolvem o problema do "na minha máquina funciona", garantindo que o software r
 ### 4.4. Monitoramento e Observabilidade
 Permitem que a equipe de Operações (Ops) acompanhe o desempenho do sistema em tempo real e identifique falhas antes mesmo que o usuário perceba.
 
-<p align="center">
-<img src="./Imagens/Monitoramento.png" alt="Monitoramento e Observabilidade" width="500">
-</p>
+| Monitoramento e Observabilidade | Ferramenta: Prometheus |
+| :---: | :---: |
+| <img src="./Imagens/Monitoramento.png" alt="Monitoramento e Observabilidade" width="400"> | <img src="./Imagens/Prometheus.png" alt="Prometheus Monitoring" width="400"> |
 
 * **Zabbix / Nagios**: Focados no monitoramento de infraestrutura e rede.
 * **Prometheus & Grafana**: O Prometheus coleta dados métricos, enquanto o Grafana gera painéis visuais (dashboards) detalhados sobre o estado da aplicação.
-  
-  <p align="center">
-<img src="./Imagens/Prometheus.png" alt="Prometheus Monitoring" width="500">
-</p>
-
 * **New Relic**: Oferece visibilidade profunda sobre o tempo de resposta das transações no software.
 
 ### 4.5. Infraestrutura como Código (IaC) e Gerenciamento de Configuração
