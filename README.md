@@ -144,6 +144,15 @@ Essas ferramentas permitem que múltiplos desenvolvedores trabalhem no mesmo có
 
 * **GitLab CI / CircleCI**: Ferramentas modernas focadas em rapidez, que executam testes automatizados assim que o desenvolvedor envia o código para o repositório.
 
+  <div align="center">
+
+| GitLab CI (Integração Contínua) | GitLab CD (Entrega Contínua) |
+| :---: | :---: |
+| <img src="./Imagens/Gitlab CI.png" alt="GitLab CI" width="450"> | <img src="./Imagens/GitLab CD.png" alt="GitLab CD" width="450"> |
+| *Fase de automação de build e testes.* | *Fase de automação de deploy em produção.* |
+
+</div>
+
 ### 4.3. Virtualização, Containers e Orquestração
 Resolvem o problema do "na minha máquina funciona", garantindo que o software rode da mesma forma em qualquer computador ou servidor.
 * **Docker**: Cria "containers" que empacotam a aplicação com todas as suas dependências (bibliotecas, banco de dados, etc.).
