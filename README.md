@@ -266,4 +266,4 @@ Para nós, profissionais de tecnologia, compreender o DevOps é entender o ritmo
 # Bibliografia
 https://about.gitlab.com/topics/devops/
 https://rtask.thinkr.fr/transform-a-folder-as-git-project-synchronized-on-github-or-gitlab/
-https://docs.gitlab.co.jp/ee/ci/introduction/
+https://docs.gitlab.co.jp/ee/ci/introduction
