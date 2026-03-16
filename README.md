@@ -219,11 +219,25 @@ Permitem que a equipe de Operações (Ops) acompanhe o desempenho do sistema em 
 * **Prometheus & Grafana**: O Prometheus coleta dados métricos, enquanto o Grafana gera painéis visuais (dashboards) detalhados sobre o estado da aplicação.
 * **New Relic**: Oferece visibilidade profunda sobre o tempo de resposta das transações no software.
 
-### 4.5. Infraestrutura como Código (IaC) e Gerenciamento de Configuração
-Permitem configurar servidores inteiros através de scripts, eliminando configurações manuais propensas a erros.
-* **Puppet & Chef**: Automatizam a instalação e configuração de softwares em milhares de servidores simultaneamente.
-* **Ansible**: Utiliza uma linguagem simples (YAML) para automatizar o fornecimento de infraestrutura e o deploy de aplicações.
+---
 
+## 4.5. Infraestrutura como Código (IaC) e Gerenciamento de Configuração
+
+A Infraestrutura como Código (IaC) consiste na gestão e no provisionamento da infraestrutura de tecnologia através de arquivos de definição legíveis por máquina. Esta prática substitui processos manuais e configurações físicas, mitigando a incidência de erros humanos e garantindo a repetibilidade do ambiente.
+
+<p align="center">
+  <img src="./Imagens/IaC.png" alt="Infraestrutura como Código">
+  <br>
+  <em><b>Figura Estrutura IaC:</b> Arquitetura de camadas de infraestrutura automatizada via código.</em>
+</p>
+
+### 4.5.1. Conceitos e Ferramentas
+
+A utilização de scripts para configurar servidores inteiros elimina falhas operacionais e permite o escalonamento ágil de recursos. As principais ferramentas utilizadas no mercado incluem:
+
+* **Ansible:** Utiliza uma linguagem simples e declarativa (YAML) para automatizar o fornecimento de infraestrutura e o *deploy* de aplicações, destacando-se pela facilidade de implementação.
+* **Puppet & Chef:** Focadas no gerenciamento de configuração, estas plataformas automatizam a instalação e parametrização de softwares em milhares de servidores simultaneamente, assegurando que todos os nós mantenham a conformidade técnica estabelecida.
+  
 ---
 
 ## 4.6. Comunicação e Colaboração (Real-time Communication)
