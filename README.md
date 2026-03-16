@@ -230,6 +230,11 @@ Permitem configurar servidores inteiros através de scripts, eliminando configur
 
 Essenciais para a integração entre as frentes de Desenvolvimento (Dev) e Operações (Ops), estas ferramentas atuam como o terminal de controle unificado do ciclo de vida de software. Elas centralizam alertas, discussões estratégicas e a tomada de decisão em um ecossistema acessível via desktop e dispositivos móveis.
 
+| Logo da Ferramenta | Interface de Comunicação e Alertas |
+| :---: | :--- |
+| ![Logo Comunicação](./Imagens/Logo%20Comunicação.jpg) | ![Comunicação](./Imagens/Comunicação.jpg) |
+| **Figura X:** Identidade visual representativa. | **Figura Y:** Exemplo de fluxo de incidentes e métricas. |
+
 ### 4.6.1. Ferramentas de ChatOps e Monitoramento
 Plataformas como **Slack** e **Microsoft Teams** viabilizam o conceito de *ChatOps*, onde robôs de automação integram-se ao fluxo de trabalho para enviar notificações em tempo real sobre o status de testes, sucessos de *deploy* ou falhas críticas de infraestrutura. 
 
