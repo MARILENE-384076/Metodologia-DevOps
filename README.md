@@ -226,9 +226,9 @@ Permitem que a equipe de Operações (Ops) acompanhe o desempenho do sistema em 
 A Infraestrutura como Código (IaC) consiste na gestão e no provisionamento da infraestrutura de tecnologia através de arquivos de definição legíveis por máquina. Esta prática substitui processos manuais e configurações físicas, mitigando a incidência de erros humanos e garantindo a repetibilidade do ambiente.
 
 <p align="center">
-  <img src="./Imagens/IaC.png" alt="Infraestrutura como Código">
+  <img src="./Imagens/IaC.png" alt="Infraestrutura como Código" width="500">
   <br>
-  <em><b>Figura Estrutura IaC:</b> Arquitetura de camadas de infraestrutura automatizada via código.</em>
+  <em><b> Arquitetura IaC:</b> Arquitetura de camadas de infraestrutura automatizada via código.</em>
 </p>
 
 ### 4.5.1. Conceitos e Ferramentas
